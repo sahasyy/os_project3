@@ -3,6 +3,7 @@
 This project implements an on-disk B-Tree using Python with block-based I/O and a strict 3-node memory limit. It supports commands to create, insert, search, load, print, and extract key-value pairs from an index file.
 
 ## Folder Layout
+```
 sahas-os-project3/
 ├── index.py # main python script with all commands implemented
 ├── devlog.md # development log with notes per milestone
@@ -10,6 +11,7 @@ sahas-os-project3/
 ├── Makefile # shortcuts to build/test/clean
 ├── README.md # this file
 └── sample.csv # sample input file (optional)
+```
 
 ## Program Description
 
