@@ -1,8 +1,8 @@
-# Project: sahas-os-project3 – B-Tree Index File Manager
+# Project: sahas-os-project3 : B Tree Index File Manager
 
 This project implments an on disk BTree using Python with block-based I/O and a strict 3 node memory limit. it suports commands to create, insert, search, load, print, and extract key value pairs from a index file.
 
-## Folder Layout
+## folder layout
 ```
 sahas-os-project3/
 ├── index.py # main python script with all commands impemented
