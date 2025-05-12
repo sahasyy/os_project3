@@ -1,4 +1,4 @@
-# Makefile for CS4348 Project 3 – Sahas Sharma
+# Makefile for OS Project 3 – Sahas sharma
 
 .PHONY: test clean
 
