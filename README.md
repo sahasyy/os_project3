@@ -5,7 +5,7 @@ This project implments an on disk BTree using Python with block-based I/O and a 
 ## folder layout
 ```
 sahas-os-project3/
-├── index.py # main python script with all commands impemented
+├── index.py # main python script with all commands impement
 ├── devlog.md # development log with notes per milestone
 ├── test.sh # test script to validate core functionaity
 ├── Makefile # shortcuts to build/test/clean
